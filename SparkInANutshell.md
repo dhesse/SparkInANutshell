@@ -10,7 +10,7 @@
 
 ---
 
-![Spark Logo](https://raw.githubusercontent.com/dhesse/SparkTalk/master/img/spark-logo.png)
+![Spark Logo](https://raw.githubusercontent.com/dhesse/SparkInANutshell/master/img/spark-logo.png)
 
 From [spark.apache.org](http://spark.apache.org/)
 
@@ -28,7 +28,7 @@ Spark lets you process **big** data sets
 - in *Java*, *Scala*, <font color="red">*Python*</font>, and *R*
 - with many back-ends and extensions.
 
-![Spark Modules](https://raw.githubusercontent.com/dhesse/SparkTalk/master/img/ecosystem.png)
+![Spark Modules](https://raw.githubusercontent.com/dhesse/SparkInANutshell/master/img/ecosystem.png)
 
 ---
 
@@ -38,7 +38,7 @@ Spark lets you process **big** data sets
 
 ## Hadoop $\neq$ hadoop
 
-![](https://raw.githubusercontent.com/dhesse/SparkTalk/master/img/Hadoop.png)
+![](https://raw.githubusercontent.com/dhesse/SparkInANutshell/master/img/Hadoop.png)
 
 <small>Graph: http://studyportfolio.com/<small>
 
@@ -46,7 +46,7 @@ Spark lets you process **big** data sets
 
 ## What makes Hadoop different?
 
-![Spark VS DW](https://raw.githubusercontent.com/dhesse/SparkTalk/master/img/DWHVsHadoop.png)
+![Spark VS DW](https://raw.githubusercontent.com/dhesse/SparkInANutshell/master/img/DWHVsHadoop.png)
 
 ---
 
@@ -60,13 +60,13 @@ Spark lets you process **big** data sets
 
 ## Let's use it to count words!
 
-[Live Demo](http://localhost:8888/notebooks/WordCount.ipynb)
+[Live Demo](https://github.com/dhesse/SparkInANutshell/blob/master/ipython/WordCount.ipynb)
 
 ---
 
 ## Spark Streaming
 
-[Live Demo](http://localhost:8888/notebooks/StreamMyPhone.ipynb)
+[Live Demo](https://github.com/dhesse/SparkInANutshell/blob/master/ipython/StreamMyPhone.ipynb)
 
 ---
 
